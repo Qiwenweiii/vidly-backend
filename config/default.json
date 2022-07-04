@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb+srv://<username>:<password>@cluster0.bblor.mongodb.net/vidly-app?retryWrites=true&w=majority",
+  "port": "3900",
+  "requiresAuth": true
+}
